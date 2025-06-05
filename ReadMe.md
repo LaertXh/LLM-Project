@@ -87,6 +87,6 @@ While the model is unsupervised, evaluation was done through human interpretabil
 
 - **Laert Xhumari** - https://github.com/LaertXh
 - **Wendy Ralston** - https://github.com/ala-hajjar
-- **Alaa El Hajjar** -
+- **Alaa El Hajjar** - https://github.com/weralston
 
 > This project was developed as part of the CIS 9665 NLP course at Baruch College.
